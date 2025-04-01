@@ -31,3 +31,8 @@ ___
 
 - lista
 - desordenada
+
+
+|columna 1 |columna 2 |columna 3|
+|-|-|-|
+|dato 1 |dato 2 |dato 3|

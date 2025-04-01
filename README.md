@@ -15,4 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Bienvenido a mi perfil
+___
+
+### *Bienvenido a mi perfil*
+**by konucita**
+***desde caracas***
+~~venezuela~~
+
+***
+
+1. lista
+2. ordenada
+
+---
+
+- lista
+- desordenada

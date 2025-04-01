@@ -19,7 +19,7 @@ ___
 
 ### *Bienvenido a mi perfil*
 **by konucita**
-***desde caracas***
+*** desde caracas ***
 ~~venezuela~~
 
 ***
@@ -34,5 +34,8 @@ ___
 
 
 |columna 1 |columna 2 |columna 3|
-|-|-|-|
-|dato 1 |dato 2 |dato 3|
+|----------|----------|---------|
+|dato 1    |dato 2    |dato 3   |
+
+- { } Tarea incompleta
+- {X} Tarea completada

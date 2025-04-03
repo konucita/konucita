@@ -32,5 +32,5 @@ ___
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=red&lines=>/Hello+world.py;Error:+No+such+file+or+directory;>./hello_world.py;Welcome+to+my+GitHub+profile;My+name+is+Abrahan+Gil;I'm+a+software+developer;process+finished+with+exit+code+0;..." />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8F7&background=FF004710&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 </p>

@@ -32,5 +32,5 @@ ___
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8F7&background=FF004710&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8F7&background=FF004710&center=true&vCenter=true&width=435&lines=Hola%2C+soy+konucita;Bienvenido+a+mi+perfil" />
 </p>
